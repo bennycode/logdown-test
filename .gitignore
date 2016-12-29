@@ -1,0 +1,5 @@
+/.idea
+!/.idea/*.iml
+!/.idea/codeStyleSettings.xml
+/bower_components
+/node_modules

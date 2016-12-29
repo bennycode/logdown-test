@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "logdown": "^1.4.4"
+  },
+  "devDependencies": {
+    "require-stub": "^2.2.4"
+  },
+  "main": "index.js",
+  "name": "logdown-test",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennyn/logdown-test.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}

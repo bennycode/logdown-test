@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "logdown": "^1.4.4"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "logdown-test",
+  "private": true
+}
